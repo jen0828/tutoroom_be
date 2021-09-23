@@ -3,6 +3,16 @@
 
 A tutoring web application built using Ruby on Rails backend with JavaScript frontend, essentially 2 separate applications - backend, [frontend](https://github.com/jen0828/tutoroom_fe). This app allows users to customise profiles and seek out learners and tutors across the globe with similar educational interests.
 
+## Demo
+
+https://user-images.githubusercontent.com/79845719/134516148-ec1f9fc8-8681-49ee-98d8-6eea7c2992cc.mov
+
+## Technologies
+* Ruby
+* Rails
+* API testing - Rspec, Insomnia
+* PostgreSQL
+
 ## Installation
 ### To clone the repo
 ```shell
